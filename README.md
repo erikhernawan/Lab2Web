@@ -19,7 +19,7 @@ Jawaban :
   
 ![image](https://user-images.githubusercontent.com/81576402/113605647-cd61ca00-95fb-11eb-9728-03a3acdb1491.png)
 
-   - Inline CSS : SS yang ditulis langsung pada atribut elemen HTML. Setiap elemen HTML memiliki atribut style, di situ lah inline CSS ditulis.
+   - Inline CSS : CSS yang ditulis langsung pada atribut elemen HTML. Setiap elemen HTML memiliki atribut style, di situ lah inline CSS ditulis.
 
 ![image](https://user-images.githubusercontent.com/81576402/113605858-131e9280-95fc-11eb-8ee4-63fe265f1590.png)
 
